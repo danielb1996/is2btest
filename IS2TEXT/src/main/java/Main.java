@@ -11,7 +11,11 @@
 public class Main {
     
     
- public void Saludo)(){
+      public void Saludo(){
     
-} 
+     
+      } 
+      public void Despeida(){
+   
+      }
 }
